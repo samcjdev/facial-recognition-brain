@@ -1,3 +1,21 @@
+# smart-brain
+This project is a web app, with the purpose of allowing a user determine whether or not an image contains a human face.
+
+Which is achieved through the use of computer vision analysis of images supplied by the user.
+
+Images must be supplied to the app in the form of a URL linking to the image.
+
+The image will then appear after the "Detect" link is entered into the box and the detect button is clicked.
+
+This will in turn increment the users entry count, while simultaneously displaying a blue "border-box" around the face in the supplied image; so long as a face is present that is.
+
+
+Link to a high resolution image which can be used: [Image of face](https://images.unsplash.com/photo-1571512599285-9ac4fdf3dba9?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80)
+
+
+
+##
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
