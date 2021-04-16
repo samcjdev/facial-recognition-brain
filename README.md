@@ -12,7 +12,7 @@ This will in turn increment the users entry count, while simultaneously displayi
 
 Link to a high resolution image which can be used: [Image of face](https://images.unsplash.com/photo-1571512599285-9ac4fdf3dba9?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80)
 
-
+Link to the site in production: [smart-brain-1.0.0](https://smart-brain-1-0-0.herokuapp.com/)
 
 ##
 
