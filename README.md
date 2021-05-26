@@ -1,5 +1,5 @@
 # smart-brain
-This project is a web app, with the purpose of allowing a user determine whether or not an image contains a human face.
+This project is a web app, with the purpose of allowing a user determine to whether or not an image contains a human face.
 
 Which is achieved through the use of computer vision analysis of images supplied by the user.
 
