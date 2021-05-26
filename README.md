@@ -5,7 +5,7 @@ Which is achieved through the use of computer vision analysis of images supplied
 
 Images must be supplied to the app in the form of a URL linking to the image.
 
-The image will then appear after the "Detect" link is entered into the box and the detect button is clicked.
+The image will then appear after the link is entered into the box and the "Detect" button is clicked.
 
 This will in turn increment the users entry count, while simultaneously displaying a blue "border-box" around the face in the supplied image; so long as a face is present that is.
 
